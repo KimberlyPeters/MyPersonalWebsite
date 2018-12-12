@@ -1,0 +1,174 @@
+.lmao{
+	margin-left: 90px;
+}
+
+.mic{
+	position: absolute;
+	width: auto;
+	height: 28px;
+	margin-top: 20px;
+	margin-left: -35px;
+}
+
+.feature{
+	width: 30%;
+	display: inline-grid;
+	margin-top: 50px;
+}
+
+.feature p{
+	position: relative;
+	color: green;
+}
+
+.feature h4{
+	color: red;
+}
+
+.food{
+	background-color: red;
+	height: 300px;
+	text-align: right;
+	padding: 10px 10px 10px 10px;
+	font-family: arial;
+	font-size: 20px;
+	color: yellow;
+}
+
+.phone{
+	color: green;
+}
+
+.nav{
+	background: none;
+	overflow: hidden;
+}
+
+.nav a{
+	display: inline;
+	color: white;
+	text-align: center;
+	padding: 27px 20px 20px 24px;
+	text-decoration: none;
+	font-size: 19px;
+
+}
+.nav a:hover{
+	background-color: #F7B906;
+	color: darkblue;
+}
+
+.nav a.active{
+	background-color: #F7B906;
+	color: black;
+}
+
+.section-subtitle{
+	font-weight: lighter;
+	font-size: 18px;
+	font-family: arial;
+}
+
+.section-title{
+	font-weight: bold;
+	font-family: arial;
+	color: grey;
+	font-size: 34px;
+}
+
+footer{
+	margin-top: 185px;
+	text-align: center;
+	background-color: rgb(242,242,242);
+	height: 62px;
+}
+
+footer p{
+	color: black;
+	padding-top: 1px;
+	font-family: arial;
+}
+
+
+.kim{
+	font-family: arial;
+	color: green;
+	font-weight: lighter;
+	font-size: 20px;
+}
+
+.boy{
+	font-family: arial;
+	font-size: 20px;
+}
+
+.boy h1{
+	color: green;
+	font-weight: bolder;
+}
+
+.boy ul{
+	color: brown;
+	font-weight: lighter;
+}
+
+.bellion{
+	font-family: arial;
+	font-size: 20px;
+}
+
+.bellion h1{
+	color: green;
+	font-weight: bolder;
+}
+
+.bellion ul{
+	color: brown;
+	font-weight: lighter;
+}
+
+.mw{
+	font-family: arial;
+	font-size: 20px;
+}
+
+.mw h1{
+	color: green;
+	font-weight: bolder;
+}
+
+.move{
+	color: brown;
+	font-weight: lighter;
+}
+
+.form-a{
+	position: relative;
+	left: 28px;
+}
+
+.form-b{
+	position: relative;
+	left: 24px;
+}
+.form-c{
+	position: relative;
+	left: 16px;
+}
+
+.ohh{
+	color: green;
+	font-weight: bolder;
+	font-size: 20px;
+}
+
+.food{
+	background-image: url("../img/bg.jpg");
+	height: 129%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+	bottom: 0px;
+
+}
